@@ -21,6 +21,7 @@ class MyApp extends StatelessWidget {
   }
 }
 
+// Smart Home Home Page
 class SmartHomePage extends StatelessWidget {
   SmartHomePage({super.key});
 
